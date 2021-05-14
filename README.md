@@ -1,38 +1,31 @@
 ### Hi there 👋
 
-This is a temporary landing page readme for one important message:
+I'm currently a first-year graduate student at [SMU Guildhall](https://www.smu.edu/guildhall) pursuing a **Master of Interactive Technology (MIT) in Digital Game Development** with a specialization in Programming. If all goes to plan, my master's thesis will be on integrating Rust into an existing C++ game codebase.
 
-> I am in a legal situation currently where I may or may not be able to contribute to OSS, as
-> [my current position owns all IP I generate while I am here](https://twitter.com/CAD97_/status/1296118208034996224?s=20).
-> Informal conversation suggested that this does not cover IP generated completely without the University's resources
-> (as hard as that may be to accomplish, and harder to prove), but I strongly disagree that that is what the agreement
-> actually states and we are legally bound to. I'm planning/hoping to talk to someone to get at least some certainty
-> that I'm able to contribute to OSS without putting myself (and more importantly, the project) at legal risk.
->
-> In the mean time until I can have said discussion, I'm, in an abundance of caution, halting any OSS contributions
-> that can be construed as IP (e.g. code or documentation). I believe discussion of how things _currently_ work is
-> clearly not generating any new IP, so is still fine. I can still help you use my libraries or understand how they
-> currently work, just not contribute any new ideas towards their (or other OSS projects') development until this
-> legal question is resolved.
->
-> And if the question is resolved as "well, sure, you're _probably_ fine," I'm probably going to continue doing OSS work
-> (whatever time I have for it), as I enjoy doing it, and I _can_ divorce it entirely from the University resources.
+When I'm not doing gamedev related things, I also enjoy working on Rust open-source tooling. Some notable repositories I've landed code in include:
 
-I'll probably do something better with this readme once the above concern is addressed.
+- [rust-lang/rust](https://github.com/rust-lang/rust/commits?author=cad97)
+- [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer/commits?author=cad97)
+- [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan/commits?author=cad97)
+- [maciejhirsz/logos](https://github.com/maciejhirsz/logos/commits?author=cad97)
+- [pest-parser/pest](https://github.com/pest-parser/pest/commits?author=cad97)
+- [cad97/pointer-utils](https://github.com/cad97/pointer-utils/commits?author=cad97)
+
+and probably more.
 
 <!--
 **CAD97/CAD97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on integrating Rust and "gamedev C++"
+- 🌱 I’m currently learning how to be a better team developer
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 -->
+- 📫 How to reach me: on Twitter as [@CAD97_](https://twitter.com/CAD97_), on [my open community Discord server](https://discord.gg/FuPE9JE), or just by pinging me on GitHub
 - 😄 Pronouns: they/themself
-<!--
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I'm also a classically trained violist and vocalist
