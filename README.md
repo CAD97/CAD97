@@ -7,6 +7,7 @@ When I'm not doing gamedev related things, I also enjoy working on Rust open-sou
 - [rust-lang/rust](https://github.com/rust-lang/rust/commits?author=cad97)
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer/commits?author=cad97)
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan/commits?author=cad97)
+- [dtolnay/syn](https://github.com/dtolnay/syn/commits?author=cad97)
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos/commits?author=cad97)
 - [pest-parser/pest](https://github.com/pest-parser/pest/commits?author=cad97)
 - [cad97/pointer-utils](https://github.com/cad97/pointer-utils/commits?author=cad97)
