@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on integrating Rust and "gamedev C++"
 - 🌱 I’m currently learning how to be a better team developer
+- 📫 How to reach me: on Twitter as [@CAD97_](https://twitter.com/CAD97_), on [my open community Discord server](https://discord.gg/FuPE9JE), or just by pinging me on GitHub
+- 😄 Pronouns: they/themself
+- ⚡ Fun fact: I'm also a classically trained violist and vocalist
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: on Twitter as [@CAD97_](https://twitter.com/CAD97_), on [my open community Discord server](https://discord.gg/FuPE9JE), or just by pinging me on GitHub
-- 😄 Pronouns: they/themself
-- ⚡ Fun fact: I'm also a classically trained violist and vocalist
