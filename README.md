@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a first-year graduate student at [SMU Guildhall](https://www.smu.edu/guildhall) pursuing a **Professional in Digital Game Development** with a specialization in Programming. If all goes to plan, my master's thesis will be on integrating Rust into an existing C++ game codebase.
+I'm currently a first-year graduate student at [SMU Guildhall](https://www.smu.edu/guildhall) pursuing a **Professional Certificate in Digital Game Development** with a specialization in Programming. If all goes to plan, my master's thesis will be on integrating Rust into an existing C++ game codebase.
 
 When I'm not doing gamedev related things, I also enjoy working on Rust open-source tooling. Some notable repositories I've landed code in include:
 
