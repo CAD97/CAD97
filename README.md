@@ -21,7 +21,7 @@ and probably more. [My portfolio](https://resume.cad97.com/) highlights the proj
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on integrating Rust and "gamedev C++"
+- 🔭 I’m currently exploring integrating Rust and "gamedev C++"
 - 🌱 I’m always learning how to be a stronger team developer
 - 📫 How to reach me: on Twitter as [@CAD97_](https://twitter.com/CAD97_), on [my open community Discord server](https://discord.gg/FuPE9JE), or just by pinging me on GitHub
 - 😄 Pronouns: they/themself
