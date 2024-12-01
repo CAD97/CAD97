@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a junior software engineer with a specialization in systems and tooling developer for digital game development. I have a master's level **Professional Certificate in Digital Game Development** from [SMU Guildhall](https://www.smu.edu/guildhall) and am a credited developer on three published games from my term there. I've invested significantly in making traditionally rather brittle developer workflows more resilient and empathetic to the developer, whether those systems be C++, Rust, integrating the two, or even fully ad-hoc environments.
+I'm a software engineer with a specialization in systems and tooling development for digital game development. I have a master's level **Professional Certificate in Digital Game Development** from [SMU Guildhall](https://www.smu.edu/guildhall) and am a credited developer on three published games from my term there. I've invested significantly in making traditionally rather brittle developer workflows more resilient and empathetic to the developer, whether those systems be C++, Rust, integrating the two, or even fully ad-hoc environments.
 
 When I'm not doing gamedev related things, I also enjoy working on Rust open-source tooling. Some notable repositories I've landed code in include:
 
@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently exploring integrating Rust and "gamedev C++"
 - 🌱 I’m always learning how to be a stronger team developer
-- 📫 How to reach me: on Twitter as [@CAD97_](https://twitter.com/CAD97_), on [my open community Discord server](https://discord.gg/FuPE9JE), or just by pinging me on GitHub
+- 📫 How to reach me: on [my open community Discord server](https://discord.gg/FuPE9JE), or just by pinging me on GitHub
 - 😄 Pronouns: they/themself
 - ⚡ Fun fact: I'm also a classically trained violist and vocalist
+- 🏳️‍⚧️ [I'm a trans demigirl](https://github.com/CAD97/blog/discussions/1) and acceptance should be a right
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
